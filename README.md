@@ -29,7 +29,7 @@ As part of my BCA studies, I am learning new programming languages, and creating
    
 4. **Java**  
    An object-oriented, platform-independent language, often used for large-scale applications. It has more verbose syntax compared to others.  
-   [View Code](./java/calculator.java)
+   [View Code](./Java/calculator.java)
 
 ## Comparison and Explanation 📊
 You can find detailed comparisons of each language's calculator implementation in the [DIFFERENCES.md](./DIFFERENCES.md) file. Here, I explain:
