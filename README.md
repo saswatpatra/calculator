@@ -17,7 +17,7 @@ As part of my BCA studies, I am learning new programming languages, and creating
 ## Languages Covered 🌍
 1. **C**  
    A structured, low-level language known for its manual memory management and strict syntax.  
-   [View Code](./C/calculator.c)
+   [View Code](./C/calculator.c) | [Run Code](https://www.programiz.com/online-compiler/4G446UqiJNqG0)
    
 2. **C++**  
    An extension of C that introduces object-oriented programming. It balances performance with more flexibility.  
