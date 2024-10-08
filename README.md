@@ -25,7 +25,7 @@ As part of my BCA studies, I am learning new programming languages, and creating
    
 3. **Python**  
    A high-level, interpreted language known for its simplicity and readability. It's dynamically typed and perfect for beginners.  
-   [View Code](./Python/calculator.py)
+   [View Code](./Python/calculator.py) | [Run Code](https://www.programiz.com/online-compiler/9tHHaPJLBMvIA)
    
 4. **Java**  
    An object-oriented, platform-independent language, often used for large-scale applications. It has more verbose syntax compared to others.  
