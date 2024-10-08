@@ -21,7 +21,7 @@ As part of my BCA studies, I am learning new programming languages, and creating
    
 2. **C++**  
    An extension of C that introduces object-oriented programming. It balances performance with more flexibility.  
-   [View Code](./C++/calculator.cpp)
+   [View Code](./C++/calculator.cpp) | [Run Code](https://www.programiz.com/online-compiler/33aaB27yNJFuz)
    
 3. **Python**  
    A high-level, interpreted language known for its simplicity and readability. It's dynamically typed and perfect for beginners.  
